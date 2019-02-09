@@ -4,7 +4,7 @@
 		"titulo":"Utilizando Intent",
 		"descricao":"Nesta aula você vai aprender a utilizar o componente Intent.",
 		"conteudo":"",
-		"data":"08/02/2019",
+		"data":"08/02/2019"
 	},
 
 	{
@@ -12,7 +12,7 @@
 		"titulo":"Utilizando Timer",
 		"descricao":"Nesta aula você vai aprender a utilizar o componente Timer.",
 		"conteudo":"",
-		"data":"08/02/2019",
+		"data":"08/02/2019"
 	},
 
 	{
@@ -20,7 +20,7 @@
 		"titulo":"Utilizando Câmera",
 		"descricao":"Nesta aula você vai aprender a utilizar o componente Câmera.",
 		"conteudo":"",
-		"data":"08/02/2019",
+		"data":"08/02/2019"
 	},
 
 	{
@@ -28,6 +28,6 @@
 		"titulo":"Utilizando Calendar",
 		"descricao":"Nesta aula você vai aprender a utilizar o componente Calendar.",
 		"conteudo":"",
-		"data":"08/02/2019",
+		"data":"08/02/2019"
 	}
 ]
