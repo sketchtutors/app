@@ -3,7 +3,7 @@
 		"imagem":"https://hdqwalls.com/download/thanos-infinity-gauntlet-ek-1280x720.jpg",
 		"titulo":"Utilizando Intent",
 		"descricao":"Nesta aula você vai aprender a utilizar o componente Intent.",
-		"conteudo":"https://raw.githubusercontent.com/sketchtutors/app/master/conteudo/template.html",
+		"conteudo":"https://sketchtutors.github.io/app/conteudo/template.html",
 		"data":"08/02/2019"
 	},
 
@@ -11,7 +11,7 @@
 		"imagem":"https://www.dynamicevents.ie/wp-content/uploads/2014/07/toronto-night-1280x720-1.jpg",
 		"titulo":"Utilizando Timer",
 		"descricao":"Nesta aula você vai aprender a utilizar o componente Timer.",
-		"conteudo":"https://raw.githubusercontent.com/sketchtutors/app/master/conteudo/template.html",
+		"conteudo":"https://sketchtutors.github.io/app/conteudo/template.html",
 		"data":"08/02/2019"
 	},
 
@@ -19,7 +19,7 @@
 		"imagem":"http://wallpapers-catalogue.com/norvegian-sunrise-wallpaper.1280x720.jpg",
 		"titulo":"Utilizando Câmera",
 		"descricao":"Nesta aula você vai aprender a utilizar o componente Câmera.",
-		"conteudo":"https://raw.githubusercontent.com/sketchtutors/app/master/conteudo/template.html",
+		"conteudo":"https://sketchtutors.github.io/app/conteudo/template.html",
 		"data":"08/02/2019"
 	},
 
@@ -27,7 +27,7 @@
 		"imagem":"https://elevenews.com/wp-content/uploads/2018/02/brexit-iiea-header-16-9-1280x720.jpg",
 		"titulo":"Utilizando Calendar",
 		"descricao":"Nesta aula você vai aprender a utilizar o componente Calendar.",
-		"conteudo":"https://raw.githubusercontent.com/sketchtutors/app/master/conteudo/template.html",
+		"conteudo":"https://sketchtutors.github.io/app/conteudo/template.html",
 		"data":"08/02/2019"
 	}
 ]
